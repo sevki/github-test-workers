@@ -14,7 +14,7 @@ class HelloMessage extends React.Component {
   render() {
     return (
       <div className="App-header">
-        This works.
+        This works. 1 
       </div>
     );
   }
@@ -23,9 +23,6 @@ const header = `<!DOCTYPE html>
 <html lang="en">
   <title>Cloudflare Workers Github Test</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <style>
-
-  </style>
   <body><div id="app">`;
 
 const footer = `</div>

@@ -14,7 +14,7 @@ class HelloMessage extends React.Component {
   render() {
     return (
       <div className="App-header">
-        This works. 1 
+        This works.
       </div>
     );
   }

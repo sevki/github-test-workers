@@ -3,7 +3,7 @@
     {
       "matchRef": "refs\/heads\/master",
       "file":"dist/worker.js",
-      "script": "gh-prod"
+      "script": "ghtest-prod"
     },
     {
       "matchRef": "refs\/heads\/(?!master).*",
